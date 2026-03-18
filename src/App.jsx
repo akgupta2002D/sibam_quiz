@@ -18,10 +18,27 @@ const questionSets = {
   }
 };
 
+function randomInt(maxExclusive) {
+  if (maxExclusive <= 0) return 0;
+  const cryptoObj = globalThis.crypto;
+  if (cryptoObj && typeof cryptoObj.getRandomValues === "function") {
+    const buf = new Uint32Array(1);
+    // Avoid modulo bias by rejecting out-of-range values.
+    const limit = Math.floor(0xffffffff / maxExclusive) * maxExclusive;
+    let x = 0;
+    do {
+      cryptoObj.getRandomValues(buf);
+      x = buf[0];
+    } while (x >= limit);
+    return x % maxExclusive;
+  }
+  return Math.floor(Math.random() * maxExclusive);
+}
+
 function shuffleArray(arr) {
   const copy = [...arr];
   for (let i = copy.length - 1; i > 0; i -= 1) {
-    const j = Math.floor(Math.random() * (i + 1));
+    const j = randomInt(i + 1);
     [copy[i], copy[j]] = [copy[j], copy[i]];
   }
   return copy;
@@ -30,7 +47,11 @@ function shuffleArray(arr) {
 function normalizeQuestions(rawQuestions) {
   return rawQuestions.map((q) => ({
     ...q,
-    options: q.options && q.options.length > 0 ? q.options : shuffleArray([q.answer, ...buildDistractors(q.answer)]).slice(0, 4)
+    options: shuffleArray(
+      q.options && q.options.length > 0
+        ? q.options
+        : shuffleArray([q.answer, ...buildDistractors(q.answer)]).slice(0, 4)
+    )
   }));
 }
 
