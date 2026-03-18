@@ -1,0 +1,501 @@
+[
+    {
+      "id": "1a",
+      "question": "Let me think about it, ________? (supply a correct tag)",
+      "options": ["shall I", "will I", "do I", "am I"],
+      "answer": "shall I",
+      "explanation": "For sentences starting with 'Let me', we use the tag 'shall I'. Example: Let me help you, shall I?"
+    },
+    {
+      "id": "1b",
+      "question": "Listen! someone ________ (knock) at the door.",
+      "options": ["is knocking", "knocks", "has knocked", "was knocking"],
+      "answer": "is knocking",
+      "explanation": "Use present continuous for actions happening now. 'Listen!' signals current action. Example: Look! She is running."
+    },
+    {
+      "id": "1c",
+      "question": "Hemanta has already finished his class work. (change into negative)",
+      "options": [
+        "Hemanta has not finished his class work yet.",
+        "Hemanta has already not finished his class work.",
+        "Hemanta did not finish his class work yet.",
+        "Hemanta has not finished his class work already."
+      ],
+      "answer": "Hemanta has not finished his class work yet.",
+      "explanation": "In negative present perfect, 'already' becomes 'yet'. Example: She has not eaten yet."
+    },
+    {
+      "id": "1d",
+      "question": "He said to me, 'Do you like chocolate?' (indirect speech)",
+      "options": [
+        "He asked me if I liked chocolate.",
+        "He asked me that I liked chocolate.",
+        "He told me if I like chocolate.",
+        "He said to me if I liked chocolate."
+      ],
+      "answer": "He asked me if I liked chocolate.",
+      "explanation": "Yes/no questions use 'if/whether' and tense goes back. Example: She said, 'Are you ready?' → She asked if I was ready."
+    },
+    {
+      "id": "1e",
+      "question": "Someone has stolen my purse. (passive voice)",
+      "options": [
+        "My purse has been stolen.",
+        "My purse was stolen.",
+        "My purse has stolen.",
+        "My purse is being stolen."
+      ],
+      "answer": "My purse has been stolen.",
+      "explanation": "Object becomes subject. Use 'has been + past participle'. Example: They have completed the work → The work has been completed."
+    },
+  
+    {
+      "id": "2a",
+      "question": "I don't think he will pass BLE, ________?",
+      "options": ["will he", "won't he", "does he", "did he"],
+      "answer": "will he",
+      "explanation": "Tag follows the positive idea inside the sentence. 'I don't think...' still means 'he will not pass'. So tag = 'will he'."
+    },
+    {
+      "id": "2b",
+      "question": "Ramita got her husband ________ (arrest).",
+      "options": ["arrested", "arrest", "arresting", "to arrest"],
+      "answer": "arrested",
+      "explanation": "Structure: get + object + past participle. Example: She got her car repaired."
+    },
+    {
+      "id": "2c",
+      "question": "He is only fifteen years old. (negative)",
+      "options": [
+        "He is not more than fifteen years old.",
+        "He is not fifteen years old.",
+        "He is no more fifteen years old.",
+        "He is not only fifteen years old."
+      ],
+      "answer": "He is not more than fifteen years old.",
+      "explanation": "'Only' changes to 'not more than'. Example: She is only ten → She is not more than ten."
+    },
+    {
+      "id": "2d",
+      "question": "The teacher said that honesty is the best policy. (direct speech)",
+      "options": [
+        "The teacher said, 'Honesty is the best policy.'",
+        "The teacher said, 'Honesty was the best policy.'",
+        "The teacher said that, 'Honesty is the best policy.'",
+        "The teacher said, 'Honesty will be the best policy.'"
+      ],
+      "answer": "The teacher said, 'Honesty is the best policy.'",
+      "explanation": "Universal truths stay in present tense. Example: He said that the sun rises in the east → 'The sun rises in the east.'"
+    },
+    {
+      "id": "2e",
+      "question": "I hate people calling me at midnight. (passive)",
+      "options": [
+        "I hate being called at midnight.",
+        "I hate to be called at midnight.",
+        "I hate being calling at midnight.",
+        "I hate called at midnight."
+      ],
+      "answer": "I hate being called at midnight.",
+      "explanation": "Use 'being + past participle'. Example: She likes people praising her → She likes being praised."
+    },
+  
+    {
+      "id": "3a",
+      "question": "Open the door, ________?",
+      "options": ["will you", "won't you", "shall we", "do you"],
+      "answer": "will you",
+      "explanation": "Imperative sentences take 'will you'. Example: Sit down, will you?"
+    },
+    {
+      "id": "3b",
+      "question": "This is Gopi's bag. (who question)",
+      "options": [
+        "Whose bag is this?",
+        "Who bag is this?",
+        "Who is this bag?",
+        "Whom bag is this?"
+      ],
+      "answer": "Whose bag is this?",
+      "explanation": "Use 'whose' for possession. Example: This is Ram's book → Whose book is this?"
+    },
+    {
+      "id": "3c",
+      "question": "I ________ (do) homework since morning.",
+      "options": ["have been doing", "am doing", "was doing", "have done"],
+      "answer": "have been doing",
+      "explanation": "Use present perfect continuous with 'since'. Example: She has been studying since 5 PM."
+    },
+    {
+      "id": "3d",
+      "question": "The teacher said to the students, 'Keep quiet.' (indirect)",
+      "options": [
+        "The teacher told the students to keep quiet.",
+        "The teacher said the students to keep quiet.",
+        "The teacher asked the students that keep quiet.",
+        "The teacher told the students keeping quiet."
+      ],
+      "answer": "The teacher told the students to keep quiet.",
+      "explanation": "Imperatives → 'told + to + verb'. Example: He said, 'Close the door.' → He told me to close the door."
+    },
+    {
+      "id": "3e",
+      "question": "This bottle contains mineral water. (passive)",
+      "options": [
+        "Mineral water is contained in this bottle.",
+        "Mineral water was contained in this bottle.",
+        "This bottle is contained mineral water.",
+        "Mineral water contains in this bottle."
+      ],
+      "answer": "Mineral water is contained in this bottle.",
+      "explanation": "Object becomes subject. Example: The box contains books → Books are contained in the box."
+    },
+  
+    {
+      "id": "4a",
+      "question": "Let's have a cup of tea, ________?",
+      "options": ["shall we", "will we", "don't we", "aren't we"],
+      "answer": "shall we",
+      "explanation": "'Let's' takes 'shall we'. Example: Let's go out, shall we?"
+    },
+    {
+      "id": "4b",
+      "question": "I am fine too. (negative)",
+      "options": [
+        "I am not fine either.",
+        "I am not fine too.",
+        "I am fine not.",
+        "I am neither fine."
+      ],
+      "answer": "I am not fine either.",
+      "explanation": "'Too' → 'either' in negative. Example: She likes tea too → She does not like tea either."
+    },
+    {
+      "id": "4c",
+      "question": "By the end of this year, we ________ (complete) class VIII.",
+      "options": ["will have completed", "will complete", "have completed", "will be completing"],
+      "answer": "will have completed",
+      "explanation": "Future perfect for actions completed by a future time. Example: By tomorrow, I will have finished my work."
+    },
+    {
+      "id": "4d",
+      "question": "My father asked me what I wanted. (direct)",
+      "options": [
+        "My father said, 'What do you want?'",
+        "My father said, 'What did you want?'",
+        "My father asked me, 'What I wanted?'",
+        "My father said, 'What I want?'"
+      ],
+      "answer": "My father said, 'What do you want?'",
+      "explanation": "Reverse indirect speech and adjust tense. Example: He asked me where I lived → He said, 'Where do you live?'"
+    },
+    {
+      "id": "4e",
+      "question": "Laxmi Prasad Devkota wrote Muna Madan. (passive)",
+      "options": [
+        "Muna Madan was written by Laxmi Prasad Devkota.",
+        "Muna Madan is written by Laxmi Prasad Devkota.",
+        "Muna Madan was wrote by Laxmi Prasad Devkota.",
+        "Muna Madan has written by Laxmi Prasad Devkota."
+      ],
+      "answer": "Muna Madan was written by Laxmi Prasad Devkota.",
+      "explanation": "Past simple passive: was/were + past participle. Example: He wrote a letter → A letter was written by him."
+    },
+  
+    {
+      "id": "5a",
+      "question": "I am a student, ________?",
+      "options": ["aren't I", "am I not", "isn't I", "don't I"],
+      "answer": "aren't I",
+      "explanation": "'I am' takes 'aren't I'. Example: I am late, aren't I?"
+    },
+    {
+      "id": "5b",
+      "question": "Slow and steady ________ (win) the race.",
+      "options": ["wins", "win", "won", "winning"],
+      "answer": "wins",
+      "explanation": "Singular subject takes 'wins'. Example: Honesty wins hearts."
+    },
+    {
+      "id": "5c",
+      "question": "It doesn't have any meaning. (affirmative)",
+      "options": ["It has no meaning.", "It has not any meaning.", "It have no meaning.", "It does have any meaning."],
+      "answer": "It has no meaning.",
+      "explanation": "'Not any' → 'no'. Example: I don't have any money → I have no money."
+    },
+    {
+      "id": "5d",
+      "question": "She said, 'Can you help me?' (indirect)",
+      "options": [
+        "She asked if I could help her.",
+        "She asked that I could help her.",
+        "She told if I could help her.",
+        "She asked if I can help me."
+      ],
+      "answer": "She asked if I could help her.",
+      "explanation": "Modal 'can' → 'could' and pronouns change. Example: He said, 'Can you come?' → He asked if I could come."
+    },
+    {
+      "id": "5e",
+      "question": "Ram Singh helped Bhairab. (passive)",
+      "options": [
+        "Bhairab was helped by Ram Singh.",
+        "Bhairab is helped by Ram Singh.",
+        "Bhairab was help by Ram Singh.",
+        "Bhairab has been helped by Ram Singh."
+      ],
+      "answer": "Bhairab was helped by Ram Singh.",
+      "explanation": "Past passive: was + past participle. Example: She helped me → I was helped by her."
+    },
+  
+    {
+      "id": "6a",
+      "question": "Nothing is wrong, ________?",
+      "options": ["is it", "isn't it", "is there", "are they"],
+      "answer": "is it",
+      "explanation": "'Nothing' is negative, so tag is positive. Example: Nothing happened, did it?"
+    },
+    {
+      "id": "6b",
+      "question": "One of the boys ________ (be) absent today.",
+      "options": ["is", "are", "was", "were"],
+      "answer": "is",
+      "explanation": "'One of' is singular → 'is'. Example: One of the girls is playing."
+    },
+    {
+      "id": "6c",
+      "question": "As soon as the teacher entered, the students ________ (stand) up.",
+      "options": ["stood", "stand", "were standing", "had stood"],
+      "answer": "stood",
+      "explanation": "Past simple for completed action. Example: He entered and everyone stood."
+    },
+    {
+      "id": "6d",
+      "question": "My friend said to me, 'I went to zoo yesterday.' (indirect)",
+      "options": [
+        "My friend told me that he had gone to the zoo the previous day.",
+        "My friend told me that he went to the zoo yesterday.",
+        "My friend said me that he had gone to the zoo the previous day.",
+        "My friend asked me that he had gone to the zoo the previous day."
+      ],
+      "answer": "My friend told me that he had gone to the zoo the previous day.",
+      "explanation": "Past → past perfect, 'yesterday' → 'the previous day'. Example: She said, 'I saw him yesterday' → She said she had seen him the previous day."
+    },
+    {
+      "id": "6e",
+      "question": "The result will be published tomorrow. (active)",
+      "options": [
+        "They will publish the result tomorrow.",
+        "They publish the result tomorrow.",
+        "The result will publish tomorrow.",
+        "The result will be publishing tomorrow."
+      ],
+      "answer": "They will publish the result tomorrow.",
+      "explanation": "Passive → active by adding subject 'they'. Example: The work was done → They did the work."
+    },
+    
+        {
+          "id": "7a",
+          "question": "There is a snake over there, ________? (supply a suitable tag)",
+          "options": ["isn't there", "is there", "isn't it", "aren't there"],
+          "answer": "isn't there",
+          "explanation": "Positive statement → negative tag. 'There is' → 'isn't there'. Example: There is a book, isn't there?"
+        },
+        {
+          "id": "7b",
+          "question": "Do you have any problem? (into statement)",
+          "options": [
+            "You have some problem.",
+            "You have any problem.",
+            "You do have some problem?",
+            "You had some problem."
+          ],
+          "answer": "You have some problem.",
+          "explanation": "Questions → statements: remove 'do' and change 'any' to 'some'. Example: Do you have any money? → You have some money."
+        },
+        {
+          "id": "7c",
+          "question": "Niroj ________ (cut) his finger. It's bleeding now.",
+          "options": ["has cut", "cut", "had cut", "is cutting"],
+          "answer": "has cut",
+          "explanation": "Use present perfect for recent action with present result. Example: I have broken my leg (and it still hurts)."
+        },
+        {
+          "id": "7d",
+          "question": "The teacher said that the students had to study hard. (direct speech)",
+          "options": [
+            "The teacher said, 'The students have to study hard.'",
+            "The teacher said, 'The students had to study hard.'",
+            "The teacher said, 'The students will have to study hard.'",
+            "The teacher said that, 'The students have to study hard.'"
+          ],
+          "answer": "The teacher said, 'The students have to study hard.'",
+          "explanation": "Reverse indirect → direct. 'had to' → 'have to'. Example: He said that I had to go → He said, 'You have to go.'"
+        },
+        {
+          "id": "7e",
+          "question": "I was invited in the party. (active voice)",
+          "options": [
+            "They invited me to the party.",
+            "They invite me to the party.",
+            "They had invited me to the party.",
+            "I invited them to the party."
+          ],
+          "answer": "They invited me to the party.",
+          "explanation": "Passive → active: add subject ('they'). Example: He was called → They called him."
+        },
+      
+        {
+          "id": "8a",
+          "question": "None came yesterday, ________? (tag)",
+          "options": ["did they", "didn't they", "did he", "didn't he"],
+          "answer": "did they",
+          "explanation": "'None' is negative → positive tag. Example: Nobody came, did they?"
+        },
+        {
+          "id": "8b",
+          "question": "Yogesh as well as his friends ________ (has) completed the project work.",
+          "options": ["has", "have", "had", "having"],
+          "answer": "has",
+          "explanation": "Subject is 'Yogesh' (singular). 'As well as' does not change subject. Example: Ram as well as his friends is coming."
+        },
+        {
+          "id": "8c",
+          "question": "Neither Durjan nor Pritam does this work. (affirmative)",
+          "options": [
+            "Both Durjan and Pritam do not do this work.",
+            "Both Durjan and Pritam do this work.",
+            "Durjan and Pritam do this work.",
+            "Both Durjan and Pritam does not do this work."
+          ],
+          "answer": "Both Durjan and Pritam do not do this work.",
+          "explanation": "'Neither...nor' → 'Both...not'. Example: Neither A nor B came → Both A and B did not come."
+        },
+        {
+          "id": "8d",
+          "question": "He asked me what my name was. (direct speech)",
+          "options": [
+            "He said to me, 'What is your name?'",
+            "He said to me, 'What was my name?'",
+            "He asked me, 'What is my name?'",
+            "He said to me, 'What your name is?'"
+          ],
+          "answer": "He said to me, 'What is your name?'",
+          "explanation": "Change back to question form and present tense. Example: She asked where I lived → She said, 'Where do you live?'"
+        },
+        {
+          "id": "8e",
+          "question": "We should follow the rules properly. (passive)",
+          "options": [
+            "The rules should be followed properly.",
+            "The rules should followed properly.",
+            "The rules are should be followed properly.",
+            "The rules should be follow properly."
+          ],
+          "answer": "The rules should be followed properly.",
+          "explanation": "Modal passive: should + be + past participle. Example: We should finish the work → The work should be finished."
+        },
+      
+        {
+          "id": "9a",
+          "question": "I had a terrible dream last night, ________? (tag)",
+          "options": ["didn't I", "hadn't I", "wasn't I", "don't I"],
+          "answer": "didn't I",
+          "explanation": "Past simple → 'didn't'. Example: She went home, didn't she?"
+        },
+        {
+          "id": "9b",
+          "question": "Let's not have anything right now. (affirmative)",
+          "options": [
+            "Let's have something right now.",
+            "Let's have anything right now.",
+            "Let's not have something right now.",
+            "Let's have nothing right now."
+          ],
+          "answer": "Let's have something right now.",
+          "explanation": "'Not anything' → 'something'. Example: Don't say anything → Say something."
+        },
+        {
+          "id": "9c",
+          "question": "Nobody ________ (write) to me since my birthday.",
+          "options": ["has written", "wrote", "have written", "is writing"],
+          "answer": "has written",
+          "explanation": "Use present perfect with 'since'. Example: I have not seen him since Monday."
+        },
+        {
+          "id": "9d",
+          "question": "'Let's sell the house,' said Tom. (indirect)",
+          "options": [
+            "Tom suggested that they should sell the house.",
+            "Tom told that they should sell the house.",
+            "Tom said that they sell the house.",
+            "Tom asked that they should sell the house."
+          ],
+          "answer": "Tom suggested that they should sell the house.",
+          "explanation": "'Let's' → 'suggested that... should'. Example: 'Let's go' → He suggested that we should go."
+        },
+        {
+          "id": "9e",
+          "question": "Tourists are attracted by national parks. (active)",
+          "options": [
+            "National parks attract tourists.",
+            "National parks attracts tourists.",
+            "Tourists attract national parks.",
+            "National parks are attracting tourists."
+          ],
+          "answer": "National parks attract tourists.",
+          "explanation": "Passive → active: subject becomes doer. Example: The song was sung by her → She sang the song."
+        },
+      
+        {
+          "id": "10a",
+          "question": "Puja bought some guavas, ________? (tag)",
+          "options": ["didn't she", "did she", "hasn't she", "wasn't she"],
+          "answer": "didn't she",
+          "explanation": "Past simple → 'didn't'. Example: He played football, didn't he?"
+        },
+        {
+          "id": "10b",
+          "question": "We shall leave Hetauda next week. (when question)",
+          "options": [
+            "When shall we leave Hetauda?",
+            "When we shall leave Hetauda?",
+            "When will we left Hetauda?",
+            "When do we shall leave Hetauda?"
+          ],
+          "answer": "When shall we leave Hetauda?",
+          "explanation": "Make 'when' question by replacing time phrase. Example: They will arrive tomorrow → When will they arrive?"
+        },
+        {
+          "id": "10c",
+          "question": "They ________ (live) here since they got married.",
+          "options": ["have lived", "are living", "lived", "have been living"],
+          "answer": "have lived",
+          "explanation": "Use present perfect with 'since'. Example: I have lived here since 2010."
+        },
+        {
+          "id": "10d",
+          "question": "Who broke the mirror? (indirect)",
+          "options": [
+            "He asked who had broken the mirror.",
+            "He asked who broke the mirror.",
+            "He asked that who had broken the mirror.",
+            "He asked if who had broken the mirror."
+          ],
+          "answer": "He asked who had broken the mirror.",
+          "explanation": "Wh-question → no 'if', tense goes back. Example: She said, 'Who came?' → She asked who had come."
+        },
+        {
+          "id": "10e",
+          "question": "A strong wind might blow off her hat. (passive)",
+          "options": [
+            "Her hat might be blown off by a strong wind.",
+            "Her hat might be blow off by a strong wind.",
+            "Her hat might blown off by a strong wind.",
+            "Her hat might be blown by a strong wind off."
+          ],
+          "answer": "Her hat might be blown off by a strong wind.",
+          "explanation": "Modal passive: might + be + past participle. Example: They might finish it → It might be finished."
+        }
+    ]
