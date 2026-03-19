@@ -1,0 +1,72 @@
+[
+    {
+      "id": "1a",
+      "question": "There lived ___ (an, a, the) university student near my house.",
+      "options": ["an", "a", "the"],
+      "answer": "a",
+      "explanation": "'University' starts with a consonant sound (you-ni), so we use 'a', not 'an'. Example: a university, a user."
+    },
+    {
+      "id": "1b",
+      "question": "In fact, the bus had already started ___ (because, but, as) some people were left behind.",
+      "options": ["because", "but", "as"],
+      "answer": "because",
+      "explanation": "'Because' is used to show reason. The bus started because people were left behind. Example: I stayed home because it rained."
+    },
+    {
+      "id": "1c",
+      "question": "Neither the boy nor his friends ___ (was, had, were) able to catch the bus.",
+      "options": ["was", "had", "were"],
+      "answer": "were",
+      "explanation": "With 'neither...nor', the verb agrees with the subject closest to it ('friends' → plural), so 'were'. Example: Neither the teacher nor the students were ready."
+    },
+    {
+      "id": "1d",
+      "question": "If they were in time, they ___ (would catch, will have caught, will catch) the bus without any problem.",
+      "options": ["would catch", "will have caught", "will catch"],
+      "answer": "would catch",
+      "explanation": "This is a second conditional (If + past, would + base verb). Example: If I had time, I would travel."
+    },
+    {
+      "id": "1e",
+      "question": "In this way, the situation made them ___ (to regret, regret, regretted) themselves.",
+      "options": ["to regret", "regret", "regretted"],
+      "answer": "regret",
+      "explanation": "After 'make', we use base verb (no 'to'). Structure: make + object + base verb. Example: This made me cry."
+    },
+    {
+      "id": "2a",
+      "question": "Once upon a time there was ___ (a/an/the) farmer.",
+      "options": ["a", "an", "the"],
+      "answer": "a",
+      "explanation": "We use 'a' for a singular, non-specific noun. Example: a farmer, a teacher."
+    },
+    {
+      "id": "2b",
+      "question": "They always ___ (use to play/didn't used to play/used to play) cards.",
+      "options": ["use to play", "didn't used to play", "used to play"],
+      "answer": "used to play",
+      "explanation": "'Used to' expresses past habits. Example: I used to play outside when I was young."
+    },
+    {
+      "id": "2c",
+      "question": "He felt pity upon them ___ (but/so/because) he called them and told them that he had buried the treasure in the field.",
+      "options": ["but", "so", "because"],
+      "answer": "so",
+      "explanation": "'So' shows result. He felt pity, so he called them. Example: It was late, so I went home."
+    },
+    {
+      "id": "2d",
+      "question": "Indeed, they dug the field ___ (hard/harder/more harder) than their father.",
+      "options": ["hard", "harder", "more harder"],
+      "answer": "harder",
+      "explanation": "Comparative form of 'hard' is 'harder'. We do not use 'more harder'. Example: She works harder than me."
+    },
+    {
+      "id": "2e",
+      "question": "In this way, the old farmer made his sons ___ (work hard/to work hard/worked hard).",
+      "options": ["work hard", "to work hard", "worked hard"],
+      "answer": "work hard",
+      "explanation": "After 'make', we use base verb. Example: The teacher made us study."
+    }
+  ]

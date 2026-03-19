@@ -2,6 +2,7 @@ import React, { useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { CheckCircle2, XCircle, RotateCcw, Play, Home, Shuffle } from "lucide-react";
 import questions07 from "./data/question07.json";
+import questions09 from "./data/question09.json";
 // Replace these with your real JSON imports.
 // Example:
 // import questions07 from "./data/questions07.json";
@@ -15,6 +16,12 @@ const questionSets = {
     title: "BLE English: Q7–10",
     subtitle: "Grammar practice",
     data: questions07
+  },
+  questions09: {
+    id: "questions09",
+    title: "BLE English: Q9",
+    subtitle: "Articles, conjunctions, verb forms",
+    data: questions09
   }
 };
 
