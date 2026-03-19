@@ -1,0 +1,98 @@
+[
+    {
+      "id": "3a",
+      "question": "Identify the errors and choose the correctly rewritten paragraph: in a city, a boy lived with his parents his parents used to live far away in another city the parents would take their son to his grand parents house during holidays they would stay there for fifteen twenty days and then return the boy always loved visiting there Didn't he",
+      "options": [
+        "In a city, a boy lived with his parents. His parents used to live far away in another city. The parents would take their son to his grandparents house during holidays. They would stay there for fifteen twenty days and then return. The boy always loved visiting there, didn't he?",
+        "In a city, a boy lived with his parents. His parents used to live far away in another city. The parents would take their son to his grandparents' house during holidays. They would stay there for fifteen to twenty days and then return. The boy always loved visiting there, didn’t he?",
+        "In a city a boy lived with his parents. His parents used to live far away in another city. The parents would take their son to his grandparents' house during holidays. They would stay there for fifteen to twenty days and then return. The boy always loved visiting there didn’t he?",
+        "In a city, a boy lived with his parents. His parents used to live far away in another city the parents would take their son to his grandparents' house during holidays. They would stay there for fifteen to twenty days and then return. The boy always loved visiting there, didn’t he?"
+      ],
+      "answer": "In a city, a boy lived with his parents. His parents used to live far away in another city. The parents would take their son to his grandparents' house during holidays. They would stay there for fifteen to twenty days and then return. The boy always loved visiting there, didn’t he?",
+      "explanation": "Key issues: (1) Missing apostrophe in 'grandparents' house', (2) range expression needs 'to' → 'fifteen to twenty days', (3) proper punctuation between sentences, (4) tag question needs comma. Rule: Possession uses apostrophe (e.g., 'the teacher’s book'); tag questions need comma → 'He is happy, isn’t he?'"
+    },
+    {
+      "id": "4a",
+      "question": "Choose the correctly rewritten paragraph: once upon a time there lived an old couple who were very poor one day the woman said to the man why dont you go to the forest and cut down a lime tree for us to use for firewood",
+      "options": [
+        "Once upon a time, there lived an old couple who were very poor. One day the woman said to the man, 'Why don’t you go to the forest and cut down a lime tree for us to use for firewood?'",
+        "Once upon a time, there lived an old couple who were very poor. One day, the woman said to the man 'Why don’t you go to the forest and cut down a lime tree for us to use for firewood?'",
+        "Once upon a time, there lived an old couple who were very poor. One day, the woman said to the man, 'Why don’t you go to the forest and cut down a lime tree for us to use as firewood?'",
+        "Once upon a time there lived an old couple who were very poor. One day, the woman said to the man, 'Why dont you go to the forest and cut down a lime tree for us to use as firewood?'"
+      ],
+      "answer": "Once upon a time, there lived an old couple who were very poor. One day, the woman said to the man, 'Why don’t you go to the forest and cut down a lime tree for us to use as firewood?'",
+      "explanation": "Key differences: comma after 'One day', comma before quotation, correct contraction 'don’t', and idiomatic phrase 'use as firewood'. Rule: Always place a comma before direct speech → He said, 'Come here.'"
+    },
+    {
+      "id": "5a",
+      "question": "Choose the correctly rewritten paragraph: a lot of people get away from kathmandu each year to celebrate dashain dashain is the greatest festival of the hindus isnt it all the schools and colleges are closed on the occasion of Dashain festival some people go to kathmandu to celebrate the festival with their children",
+      "options": [
+        "A lot of people get away from Kathmandu each year to celebrate Dashain. Dashain is the greatest festival of the Hindus, isn't it? All the schools and colleges are closed on the occasion of Dashain festival. Some people go to Kathmandu to celebrate the festival with their children.",
+        "A lot of people get away from Kathmandu each year to celebrate Dashain. Dashain is the greatest festival of the Hindus, isn’t it? All the schools and colleges are closed on the occasion of the Dashain festival. Some people go to Kathmandu to celebrate the festival with their children.",
+        "A lot of people get away from kathmandu each year to celebrate dashain. Dashain is the greatest festival of the Hindus, isn’t it? All the schools and colleges are closed on the occasion of the Dashain festival. Some people go to Kathmandu to celebrate the festival with their children.",
+        "A lot of people get away from Kathmandu each year to celebrate Dashain. Dashain is the greatest festival of the Hindus isn’t it? All the schools and colleges are closed on the occasion of the Dashain festival. Some people go to Kathmandu to celebrate the festival with their children."
+      ],
+      "answer": "A lot of people get away from Kathmandu each year to celebrate Dashain. Dashain is the greatest festival of the Hindus, isn’t it? All the schools and colleges are closed on the occasion of the Dashain festival. Some people go to Kathmandu to celebrate the festival with their children.",
+      "explanation": "Errors: capitalization (Kathmandu, Dashain), comma before tag question, article usage ('the Dashain festival'). Rule: Proper nouns are capitalized → 'London', 'Diwali'."
+    },
+    {
+      "id": "6a",
+      "question": "Choose the correctly rewritten paragraph: years passed and the Giant grew very old and feeble he could not play about any more so he sat in his huge armchair and watched the children at their games and admired his garden I have many beautiful flowers he said but the children are the most beautiful flowers of all",
+      "options": [
+        "Years passed and the Giant grew very old and feeble. He could not play about any more, so he sat in his huge armchair and watched the children at their games and admired his garden. 'I have many beautiful flowers,' he said but 'the children are the most beautiful flowers of all.'",
+        "Years passed, and the Giant grew very old and feeble. He could not play about anymore, so he sat in his huge armchair and watched the children at their games and admired his garden. 'I have many beautiful flowers,' he said, 'but the children are the most beautiful flowers of all.'",
+        "Years passed, and the Giant grew very old and feeble he could not play about anymore, so he sat in his huge armchair and watched the children at their games and admired his garden. 'I have many beautiful flowers,' he said, 'but the children are the most beautiful flowers of all.'",
+        "Years passed, and the Giant grew very old and feeble. He could not play about anymore so he sat in his huge armchair and watched the children at their games and admired his garden. 'I have many beautiful flowers' he said, 'but the children are the most beautiful flowers of all.'"
+      ],
+      "answer": "Years passed, and the Giant grew very old and feeble. He could not play about anymore, so he sat in his huge armchair and watched the children at their games and admired his garden. 'I have many beautiful flowers,' he said, 'but the children are the most beautiful flowers of all.'",
+      "explanation": "Key points: comma after introductory clause, correct dialogue punctuation, comma before 'but'. Rule: Dialogue inside quotes needs commas → 'I agree,' he said."
+    },
+    {
+      "id": "7a",
+      "question": "Choose the correctly rewritten quote: good writing does not succeed or fail on the strength of its ability to persuade it succeeds or fails on the strength of its ability to engage you to make you think to give you a glimpse into someone elses head – malcolm gladwell",
+      "options": [
+        "Good writing does not succeed or fail on the strength of its ability to persuade it succeeds or fails on the strength of its ability to engage you, to make you think, to give you a glimpse into someone else's head — Malcolm Gladwell",
+        "Good writing does not succeed or fail on the strength of its ability to persuade. It succeeds or fails on the strength of its ability to engage you, to make you think, and to give you a glimpse into someone else's head — Malcolm Gladwell",
+        "Good writing does not succeed or fail on the strength of its ability to persuade. It succeeds or fails on the strength of its ability to engage you to make you think and to give you a glimpse into someone elses head — Malcolm gladwell",
+        "Good writing does not succeed or fail on the strength of its ability to persuade. It succeeds or fails on the strength of its ability to engage you, to make you think and to give you a glimpse into someone else's head — Malcolm Gladwell"
+      ],
+      "answer": "Good writing does not succeed or fail on the strength of its ability to persuade. It succeeds or fails on the strength of its ability to engage you, to make you think, and to give you a glimpse into someone else's head — Malcolm Gladwell",
+      "explanation": "Errors: missing full stop, apostrophe in 'someone's', proper noun capitalization, and parallel commas in list. Rule: Use commas in series → 'eat, sleep, and study.'"
+    },
+    {
+      "id": "8a",
+      "question": "Choose the correctly rewritten notice:",
+      "options": [
+        "Dear Students, This is to inform you all that tomorrow, dated 3rd Aswin (Tuesday), on the auspicious occasion of Constitution Day, the school will remain closed. All the regular classes will resume from 4th Aswin (Wednesday). Principal Nepal Top Academy",
+        "Dear Students,\nThis is to inform you all that tomorrow, dated 3rd Aswin (Tuesday), on the auspicious occasion of Constitution Day, the school will remain closed. All the regular classes will resume from 4th Aswin (Wednesday).\nPrincipal\nNepal Top Academy",
+        "Dear students,\nThis is to inform you all that tomorrow dated 3rd Aswin Tuesday on the auspicious occasion of constitution day the school will remain closed. All the regular classes will resume from 4th Aswin Wednesday.\nPrincipal\nNepal Top academy",
+        "Dear Students,\nThis is to inform you all that tomorrow, dated 3rd Aswin Tuesday, on the auspicious occasion of Constitution Day, the school will remain closed. All the regular classes will resume from 4th Aswin Wednesday.\nPrincipal\nNepal Top Academy"
+      ],
+      "answer": "Dear Students,\nThis is to inform you all that tomorrow, dated 3rd Aswin (Tuesday), on the auspicious occasion of Constitution Day, the school will remain closed. All the regular classes will resume from 4th Aswin (Wednesday).\nPrincipal\nNepal Top Academy",
+      "explanation": "Correct formatting includes: capitalization, parentheses for dates, proper line breaks. Rule: Formal notices follow structured format."
+    },
+    {
+      "id": "9a",
+      "question": "Choose the correctly punctuated text:",
+      "options": [
+        "\"Quick! Hurry up! There's someone under the tree. Come and take his jewels and his horse. Hurry or else he'll slip away!\" The king was amazed. He looked up and saw a big brown bird on the tree under which he was sitting. The wicked bird said to the king, \"Where are you going?\"",
+        "\"Quick! Hurry up! There's someone under the tree. Come and take his jewels and his horse. Hurry, or else he'll slip away!\" The king was amazed. He looked up and saw a big brown bird on the tree under which he was sitting. The wicked bird said to the king, \"Where are you going?\"",
+        "\"Quick! hurry up! there's someone under the tree. Come and take his jewels and his horse. Hurry, or else he'll slip away!\" The king was amazed. He looked up and saw a big brown bird on the tree under which he was sitting. The wicked bird said to the king \"Where are you going?\"",
+        "\"Quick! Hurry up! There's someone under the tree. Come and take his jewels and his horse Hurry, or else he'll slip away!\" The king was amazed. He looked up and saw a big brown bird on the tree under which he was sitting. The wicked bird said to the king, \"Where are you going?\""
+      ],
+      "answer": "\"Quick! Hurry up! There's someone under the tree. Come and take his jewels and his horse. Hurry, or else he'll slip away!\" The king was amazed. He looked up and saw a big brown bird on the tree under which he was sitting. The wicked bird said to the king, \"Where are you going?\"",
+      "explanation": "Key detail: comma in 'Hurry, or else...', correct capitalization, quotation punctuation. Rule: Use comma before coordinating conjunctions."
+    },
+    {
+      "id": "10a",
+      "question": "Choose the correctly punctuated paragraph:",
+      "options": [
+        "How do you spend your holiday? I usually do a lot of activities: clean rooms, do shopping, visit new places, watch movies, etc. Yesterday I cleaned my room. My best friends parents like the quality of my cleaning.",
+        "How do you spend your holiday? I usually do a lot of activities: clean rooms, do shopping, visit new places, watch movies, etc. Yesterday, I cleaned my room. My best friend's parents like the quality of my cleaning.",
+        "How do you spend your holiday I usually do a lot of activities: clean rooms, do shopping, visit new places, watch movies, etc. Yesterday, I cleaned my room. My best friend's parents like the quality of my cleaning.",
+        "How do you spend your holiday? I usually do a lot of activities clean rooms, do shopping, visit new places, watch movies, etc. Yesterday, I cleaned my room. My best friend's parents like the quality of my cleaning."
+      ],
+      "answer": "How do you spend your holiday? I usually do a lot of activities: clean rooms, do shopping, visit new places, watch movies, etc. Yesterday, I cleaned my room. My best friend's parents like the quality of my cleaning.",
+      "explanation": "Key points: question mark, colon after 'activities', comma after 'Yesterday', apostrophe in 'friend's'. Rule: Use colon to introduce a list."
+    }
+  ]
